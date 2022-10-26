@@ -1,3 +1,21 @@
+// package com.example.demo;
+
+// import org.springframework.boot.SpringApplication;
+// import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+// @SpringBootApplication
+// public class DemoApplication {
+
+// 	public static void main(String[] args) {
+// 		SpringApplication.run(DemoApplication.class, args);
+
+// 		String name = "opeoluwa";
+
+// 		System.out.printIn(name);
+// 	}
+
+// }
+
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
@@ -9,9 +27,10 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 
-		String name = "opeoluwa";
+		String name = "vamsi";
 
-		System.out.printIn(name);
+		System.out.println(name);
 	}
 
 }
+
